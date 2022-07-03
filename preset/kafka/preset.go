@@ -25,8 +25,8 @@ const (
 const (
 	defaultVersion = "2.5.1-L0"
 	brokerPort     = 49092
-	zookeeperPort  = 2181
-	webPort        = 3030
+	zookeeperPort  = 3030
+	webPort        = 8080
 )
 
 // Message is a single message sent to Kafka.
